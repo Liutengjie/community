@@ -1,0 +1,6 @@
+2020-03-24 12:30:53.457  INFO 9396 --- [main] c.l.community.CommunityApplicationTests  : Starting CommunityApplicationTests on XB-20191217DZZS with PID 9396 (started by Administrator in D:\javaÎÄ¼þ\community)
+2020-03-24 12:30:53.472  INFO 9396 --- [main] c.l.community.CommunityApplicationTests  : No active profile set, falling back to default profiles: default
+2020-03-24 12:30:55.943  INFO 9396 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-24 12:30:56.100  INFO 9396 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-03-24 12:30:56.455  INFO 9396 --- [main] c.l.community.CommunityApplicationTests  : Started CommunityApplicationTests in 3.34 seconds (JVM running for 4.588)
+2020-03-24 12:30:56.749  INFO 9396 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
